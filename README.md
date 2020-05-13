@@ -1,1 +1,1 @@
-# Box.js-new-project
+# Box Class
